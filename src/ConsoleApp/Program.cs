@@ -14,7 +14,7 @@ namespace ConsoleApp
         static void MultiThread()
         {
             var foo = new MultiPractice();
-            foo.Demo1();
+            foo.Demo2();
         }
     }
 }
